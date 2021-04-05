@@ -1,0 +1,3 @@
+[submodule "core_components"]
+	path = core_components
+	url = https://github.com/valeriorisuleo/react_native-fundamentals
