@@ -17,6 +17,9 @@ In this section...
         height: 70
     }}></View>
 </SafeAreaView>
+
+
+
 ```
 
 The value we just used for *with* and *height* are called *Densitiy-indipendent Pixels*
